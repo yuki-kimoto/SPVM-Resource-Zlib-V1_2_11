@@ -1,6 +1,0 @@
-class TestCase::Resource::Zlib::V1_2_11 {
-  static method test : int () {
-    
-    return 1;
-  }
-}
